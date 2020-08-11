@@ -1,5 +1,5 @@
 # hello-world-revisited
-I am revisiting hello-world.
+Howdy, howdy, hello-world enthusiasts!
 
 Hi. I am mid-career software developer who is eager to learn new technoligies (including git).
 
